@@ -1,5 +1,5 @@
 # IR-ASSIGNMENT
-#### [Courses](Page-B.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](Page-C.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[External Links](Page-D.md)
+#### [Courses](PAGE-B.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](PAGE-C.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[External Links](PAGE-D.md)
 
 MOHAMMED G.N. RAYYAN
 ===================
